@@ -13,6 +13,7 @@
 		E4D16D2D1E158B480048226A /* TapMeFast.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E4D16D2B1E158B480048226A /* TapMeFast.xcdatamodeld */; };
 		E4D16D2F1E158B480048226A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4D16D2E1E158B480048226A /* Assets.xcassets */; };
 		E4D16D321E158B480048226A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4D16D301E158B480048226A /* LaunchScreen.storyboard */; };
+		E4D16D3A1E158B820048226A /* ObelixProB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4D16D391E158B820048226A /* ObelixProB.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E4D16D2E1E158B480048226A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4D16D311E158B480048226A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4D16D331E158B480048226A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4D16D391E158B820048226A /* ObelixProB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ObelixProB.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				E4D16D2E1E158B480048226A /* Assets.xcassets */,
 				E4D16D301E158B480048226A /* LaunchScreen.storyboard */,
 				E4D16D331E158B480048226A /* Info.plist */,
+				E4D16D391E158B820048226A /* ObelixProB.ttf */,
 				E4D16D2B1E158B480048226A /* TapMeFast.xcdatamodeld */,
 			);
 			path = TapMeFast;
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4D16D3A1E158B820048226A /* ObelixProB.ttf in Resources */,
 				E4D16D321E158B480048226A /* LaunchScreen.storyboard in Resources */,
 				E4D16D2F1E158B480048226A /* Assets.xcassets in Resources */,
 				E4D16D2A1E158B480048226A /* Main.storyboard in Resources */,
